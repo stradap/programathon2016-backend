@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "server/server.js",
   "engines": {
-        "node": "4.5.0"
+    "node": "4.5.0"
   },
   "scripts": {
     "lint": "eslint .",
@@ -20,7 +20,8 @@
     "loopback-connector-mysql": "^2.3.0",
     "loopback-datasource-juggler": "^2.39.0",
     "serve-favicon": "^2.0.1",
-    "strong-error-handler": "^1.0.1"
+    "strong-error-handler": "^1.0.1",
+    "strongloop": "^6.0.2"
   },
   "devDependencies": {
     "eslint": "^2.13.1",
